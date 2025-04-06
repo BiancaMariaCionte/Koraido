@@ -1,0 +1,140 @@
+movieId,title,genres,rating
+s1000,Lotte World Tower & Mall,Shopping|Shopping Mall|Points of interest,4.4
+s1001,Dongdaemun Design Plaza (DDP),Architecture|Points of interest,4.3
+s1002,Olympic Park,Nature|Park|Sports Complex,4.5
+s1003,National Museum of Korea,History|Museum,4.7
+s1004,Gyeongbokgung Palace,History|Museum|Historic site,4.6
+s1005,Bukchon Hanok Village,Architecture|Neighborhood|Points of interest,4.4
+s1006,Starfield Library ,Shopping|Library|Points of interest,4.6
+s1007,Kakao Friends Hongdae Flagship Store,Shopping|Store,4.3
+s1008,Starfield COEX Mall,Shopping|Shopping Mall,4.3
+s1009,N Seoul Tower,Architecture|Points of interest,4.5
+s1010,Deoksugung,History|Architecture,4.6
+s1011,Haebangchon,Neighborhood|Points of interest,4.3
+s1012,The Hyundai Seoul,Shopping|Shopping Mall,4.4
+s1013,Gwanghwamun Square,History|Points of interest,4.4
+s1014,Mecenatpolis Mall,Shopping|Shopping Mall,4.1
+s1015,Myeongdong Shopping Street,Shopping|Shopping Street,4.2
+s1016,Sungnyemun Gate,History|Points of interest,4.5
+s1017,Bank of Korea Museum,History|Museum,4.5
+s1018,Cheonggyecheon Stream,Nature|Park|Points of interest|History,4.5
+s1019,Bukhansan National Park,Nature|Park|Points of interest,4.6
+s1020,The War Memorial of Korea,History|Museum|Points of interest,4.6
+s1021,Namsangol Hanok Village,History|Points of interest,4.3
+s1022,Namsan Park,Nature|Park,4.5
+s1023,Bongeunsa Temple,History|Religion,4.5
+s1024,Myeongdong NANTA Theater,Theater,4.5
+s1025,Dongdaemun Shopping Complex,Shopping|Shopping Mall,4.2
+s1026!,Times Square Mall,Shopping|Shopping Mall,4.5
+s1027,Hallyu K-Star Road,Street|Points of interest|Kpop,4.1
+s1028,Itaewon,Neighborhood|Points of interest,4
+s1029,Sigonggan,Shopping|Store|Accessories Store,4.4
+s1030,Hangang Park,Park|Nature,4.6
+s1031,HiKR Ground,Museum|Points of interest,4.4
+s1032,Ssamzigil,Shopping|Shopping Mall|Gift Shop|Street Market,4.4
+s1033,Seoul Forest Park,Park|Nature,4.6
+s1034,Namsan Cable Car,Cable car,4.2
+s1035,Zoolung Zoolung,Zoo,4.4
+s1036,Statue of Gangnam Style,Monument|Points of interest,4.5
+s1037,National Folk Museum of Korea,Museum|Art,4.6
+s1038,Hoehyeon Underground Shopping area,Shopping|Store,4.6
+s1039,Dongdaemun Gate (Heunginjimun),Architecture|History|Points of interest,4.4
+s1040,Shinsegae Department Store Myeongdong Main,Store|Department store,4.3
+s1041,KBS On,Exhibition|Kpop,4.1
+s1042,Hybe Headquarters,Entertainment agency|Kpop,4.7
+s1043,SMTOWN coexartium,Exhibition|Kpop|Gift shop,4.4
+s1044,National Palace Museum of Korea,Museum|History,4.6
+s1045,Baek In-je's House,Museum|Kdrama,4.6
+s1046,Namdaemun Market,Shopping|Flea|Street Market|Store,4.2
+s1047,Seoullo 7017,Park|Points of interest,4.2
+s1048,Gwangjang Market,Shopping|Shopping Street|Flea ,4.2
+s1049,Jogyesa Temple,Religion|Temple,4.5
+s1050,Gwanghwamun Gate,History|Monument,4.4
+s1051,Banpodaegyo Bridge,Architecture|Monument|Points of interest,4.4
+s1052,Changdeokgung Palace,History|Architecture,4.6
+s1053,Gyeonghuigung Palace,History|Architecture,4.4
+s1054,Seoul Sky,Architecture|Points of interest,4.6
+s1055,Seoul City Wall,History,4.6
+s1056,Seoul City Hall,Points of interest,4.3
+s1057,Jongmyo Shrine,Religion,4.4
+s1058,Myeong-dong Cathedral,Religion,4.7
+s1059,Whale Pub,Pub,4.4
+s1060,Seonyudo Park,Park,4.5
+s1061,Bugaksan Seoul Fortress,History|Architecture,4.5
+s1062,Seokchon Lake,Nature|Park,4.6
+s1063,Ikseon-dong Hanok Street,History|Architecture,4.2
+s1064,Coex Aquarium,Aquarium|Points of interest,4.4
+s1065,Unhyeongung,History,4.4
+r7nlm,Flavors,Food|Restaurant|Korean|Seafood|Asian|Grill|Healthy,4.5
+rmt62,Hangong-gan,Food|Restaurant|Korean|Pasta|Asian,5
+rua78,Tamayura,Food|Restaurant|Japanese|Seafood|Sushi|Asian,4.5
+r1e0q,Daol Charcoal Grill,Food|Restaurant|BBQ|Wine|Beer|Korean,4.9
+rs9br,Gowooga Gwanghwamun,Food|Restaurant|Japanese|Seafood|Asian|Korean|BBQ|Wine,5
+raw2e,MOBO Bar,Food|Pub|Bar|Wine|Dining bars,4.3
+rb12h,Wolhwa Sikdang seoul,Food|Restaurant|BBQ|Asian|Korean|Grill,4.8
+rtk3j,Gop-Mullae,Food|Restaurant|BBQ|Asian|Korean|Drinks,5
+r1123,Myth Jokbal - Hongdae Bonjeom ,Food|Restaurant|Korean|Asian|Grill,4.2
+r1111,Mukshidonna Samcheongdong,Food|Restaurant|Korean,3.9
+r1112,Hongdae Gaemi - Hongdae,Food|Restaurant|Japanese|Asian,3.9
+r1113,Noonaholdak Hongdae,Food|Restaurant|Asian|Korean,4.2
+r1114,Grain Seoul,Food|Brunch|Café|European|Healthy,4.6
+r1115,Buchon Yukhoe Main Store,Food|Restaurant|Michelin|Korean,4.4
+r1116,Maguro Sen,Food|Restaurant|Korean|Ton specialties,4.4
+r1117,The Griffin Bar,Food|Bar|Wine|Alcohol,4.4
+r1118,Wolfgang's Steakhouse Korea,Food|Restaurant|American|Steakhouse,4.3
+r1119,Chez Laurent,Food|Restaurant|French|European,4.8
+r1120,BLT Steak,Food|Restaurant|American|Steakhouse,4.3
+r1121,Si·Wha·Dam Itaewon,Food|Restaurant|Asian|Korean,4.1
+r1122,Ikseon-dong Hanok Street,Landmark,4.2
+r1123,Namdaemun Market,Flea market|Street market,4.2
+r1124,Mapo Naru House,Food|Asian|Korean,4
+r1125,Montsoop,Food|Café|Coffee,5
+r1126,Jogabi,Food|Bar|Pub|Wine,4.6
+r1127,Myeongdong Kyoja Main,Food|Restaurant|Korean|Asian,4.2
+r1128,O'ngo Food Communications,Food|Restaurant|Korean|Asian,4.9
+r1129,Jungsik,Food|Restaurant|Korean,4.4
+r1130,Mikkeller Bar,Food|Bar|Beer,4.3
+r1131,Seoul Gypsy,Food|Restaurant|Music,4.5
+r1132,Maple Tree House - Itaewon,Food|Restaurant|Korean|BBQ,4.3
+r1133,Oppadak Gwanghwamun,Food|Restaurant|Korean|Chicken,3.7
+r1134,Wangbijib Jongno,Food|Restaurant|Korean|BBQ,4.7
+r1135,Born and Bred,Food|Korean|BBQ,4.5
+r1136,Kyochon Chicken Hongdae,Food|Korean|Chicken,4.1
+r1137,La Seine,Food|International|Asian,4.5
+r1138,Gatten Sushi,Food|Sushi|Japanese,4
+r1139,Bonjuk Insadong,Food|Porridge|Korean,4.2
+cb12h,Koriko Café,Food|Café|Coffee|Tea|Dessert,4.7
+cb45h,Paris Baguette Gangnam Station,Food|Bakery|Coffee|Tea|Dessert|Pastry|Vegan|Kpop ,3.9
+cbvg4,Paris Baguette Myeongdong Station Namsan,Food|Bakery|Coffee|Tea|Dessert|Pastry ,4.1
+cba2j,Liege Waffle,Food|Pastry|Coffee|Tea|Belgian|Waffle,4.3
+cber3,Mouse rabbit coffee ,Food|Café|Coffee|Dessert|Kpop,4.6
+cbgs3,Terarosa Coffee Gwanghwamun,Food|Café|Coffee|Tea|Food,4.3
+cb111,Beans Bins,Food|Café|Coffee|Tea|Dessert,4.1
+cb112,Nulldam Space - Gyeongbok Palace ,Food|Café|Coffee|Dessert,4.4
+cb113,Fritz Coffee Company - Yangjae,Food|Café|Coffee|Dessert,4.4
+cb114,Standing Coffee,Food|Café|Coffee|Tea,4.2
+cb115,Hollys Coffee Hongdae Station,Food|Café|Coffee|Dessert,4.3
+cb116,Sulbing Myeongdong 1st,Food|Café|Coffee|Dessert,4.3
+cb117,Meerkat Friends,Food|Café|Animal café,4
+cb118,Gelato & Whisky,Food|Ice cream,5
+cb119,Cong Caphe,Food|Café|Coffee|Dessert|Tea,4.3
+cb120,Cartoon Plus Café,Food|Café|Coffee|Themed Café,4.8
+cb121,Ufotable & Machi Asobi Cafe Hongdae,Food|Café|Animal café,4.1
+cb122,Onion Anguk,Food|Café|Coffee,4.2
+cb123,Poop Café,Food|Café|Coffee,3.9
+kp1000,Teddy Beurre House,Kpop|Enhypen,4.8
+kp1001,Tongkeun Galbi,Kpop|Enhypen,4.5
+kp1002,The Wal'z,Kpop|TXT,4.1
+kp1003,Woo Bank,Kpop|TXT,4.4
+kp1004,Vinyl & Plastic,Kpop|TXT,4.5
+kp1005,Downtowner Hannam,Kpop|TXT,4.4
+kp1006,Guillaume,Kpop|TXT,4.2
+kp1007,Times Square Mall,Kpop|TXT,4.4
+s1066,Museum Kimchikan,History,4.3
+s1067,Statue of Admiral Yi Sun-Sin,History,4.7
+s1068,Statue of Sejong the Great,History,4.7
+s1069,Leeum Art Museum,History,4.6
+r1140,Myeongdong Pizza,Food|Italian|Pizza,4.3
+s1070,Kyobo Book Store Gwanghwamun,Shopping|Store|Book store,4.6
+r1141,The King's,Food,4.4
+r1142,Sushi Cho,Food|Japanese,4.5
